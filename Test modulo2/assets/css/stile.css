@@ -28,7 +28,7 @@ body {
         line-height: 2;
         }
     }
-        @media screen and (min-width:1200px) {
+        @media screen and (min-width:1450px) {
         html {
             font-size: 100%;
         }
@@ -260,7 +260,7 @@ tbody tr:last-of-type {
     border-bottom: 2px solid #3f6bca;
 }
 /* FORM */
-input {
+fieldset input  {
     padding: 5px;
     border: 0;
     border-bottom: 1px solid #333;
